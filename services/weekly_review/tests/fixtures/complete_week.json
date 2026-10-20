@@ -1,0 +1,55 @@
+{
+  "schema_version": "weekly-review-input/v1",
+  "request_id": "6bf832b4-2895-447f-8b5d-33a12c9c23d6",
+  "reviewed_week_start": "2026-10-12",
+  "generated_at": "2026-10-19T17:00:00-06:00",
+  "timezone": "America/Denver",
+  "week_state": "complete",
+  "data_freshness": {
+    "healthkit_sync_state": "complete",
+    "last_successful_import_at": "2026-10-19T16:55:00-06:00"
+  },
+  "plans": [
+    {
+      "week_start": "2026-10-12",
+      "required_miles": 20.0,
+      "required_runs": 3,
+      "planned_miles_by_type": {
+        "recovery": 6.0,
+        "tempo": 5.0,
+        "long": 9.0
+      }
+    }
+  ],
+  "workouts": [
+    {
+      "evidence_id": "w-001",
+      "week_start": "2026-10-12",
+      "started_on": "2026-10-13",
+      "run_type": "recovery",
+      "distance_miles": 3.0,
+      "duration_seconds": 1800,
+      "avg_hr_bpm": 145,
+      "source": "healthkit"
+    },
+    {
+      "evidence_id": "w-002",
+      "week_start": "2026-10-12",
+      "started_on": "2026-10-15",
+      "run_type": "tempo",
+      "distance_miles": 4.0,
+      "duration_seconds": 2100,
+      "avg_hr_bpm": 151,
+      "source": "healthkit"
+    }
+  ],
+  "physiology": {
+    "latest_vo2_max_ml_kg_min": 48.0,
+    "latest_vo2_max_observed_on": "2026-10-08",
+    "resting_hr_bpm": 53
+  },
+  "break_context": {
+    "reason": "none",
+    "has_note": false
+  }
+}

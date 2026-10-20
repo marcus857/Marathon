@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-10-20",
+  "method": "Codex built-in image generation",
+  "input_images": [],
+  "note": "Newly generated replacement artwork, not edits of the former images. Provenance is not a legal guarantee, exclusive-copyright assertion, public-domain dedication, or open-source license.",
+  "assets": [
+    {
+      "path": "Marathon/Assets.xcassets/Lycabettus.imageset/lycabettus-hero.jpg",
+      "sha256": "0e8a1226dc371e40295d311b9d0e86511da57acb4fe2eb19bff00c1077be6165",
+      "width": 1536,
+      "height": 1024,
+      "processing": "Converted generated PNG to JPEG at quality 82 using macOS sips.",
+      "prompt": "Use case: stylized-concept. Asset type: wide mobile app hero background, 1536x1024 landscape. Create an original refined painterly editorial illustration inspired by Athens and Mount Lycabettus: layered Athenian hills, pale stone city blocks, a winding path climbing an olive-covered hill, and a distant soft Aegean horizon at early golden sunrise. Palette matches an existing marathon app: deep Aegean blue #0A4D68, midnight #0C2233, warm cream #F5EFE6, olive #6B8E23, restrained ochre. Landscape with the important hill silhouette and skyline in the central horizontal band so a very wide center crop remains attractive; calm dark foreground usable behind white UI text. Atmospheric, crafted, elegant, recognizable Mediterranean setting without copying a particular photograph, painting, or artist. No text, no lettering, no watermark, no logos, no frame. Newly composed artwork; no image references."
+    },
+    {
+      "path": "Marathon/Assets.xcassets/Athens.imageset/stadium-plan.jpg",
+      "sha256": "d99922ffcfeea4ca7b86cb2c1cc395f059de18cd4cfedea70bbc248b596bf973",
+      "width": 1536,
+      "height": 1024,
+      "processing": "Converted generated PNG to JPEG at quality 82 using macOS sips.",
+      "prompt": "Use case: stylized-concept. Asset type: wide mobile weekly marathon training card illustration, 1536x1024 landscape. Create an original refined painterly editorial illustration of an ancient-inspired marble running stadium in Athens with graceful curved stands, a warm terracotta running track, small olive trees, soft hill silhouettes and a pale sunrise sky. Palette: deep Aegean blue #0A4D68, midnight #0C2233, warm cream marble #F5EFE6, olive green #6B8E23, terracotta #C96A3D, muted gold. Broad graphic architectural shapes, tactile paper texture, restrained details, beautifully balanced. Place track curves and marble stands in the central horizontal band so it works in a very wide center crop in an iPhone card. No people, no text, no lettering, no watermark, no logos, no frame. Newly composed artwork, not a copy of any photograph, painting, or artist; no image references."
+    },
+    {
+      "path": "Marathon/Assets.xcassets/AppIcon.appiconset/marathon-icon.png",
+      "sha256": "b286ba8a7ad7102c1618cff0572818c109f799e5c57f31d8cac3d650caf616c4",
+      "width": 1024,
+      "height": 1024,
+      "processing": "Resized generated square PNG to 1024 by 1024 pixels using macOS sips; no alpha channel.",
+      "prompt": "Use case: logo-brand. Asset type: final opaque square 1024x1024 iOS app icon, full bleed with square corners (iOS applies the mask). Create an original distinctive minimal icon for an Athens marathon training app: three elegant warm ivory running-track curves turning upward into a simple mountain/letter-M silhouette, with one small muted-gold sun above, all on solid deep Aegean midnight blue #0C2233. Restrained sophisticated graphic geometry, strong readable silhouette at small sizes, carefully balanced negative space, high contrast, subtle flat colors, centered mark occupying about two thirds of the square. Use simple original drawn shapes, not an existing brand logo or SF Symbol. No lettering, no wordmark, no numerals, no watermark, no mockup, no border, no rounded outer corners. Fully opaque background. No image references."
+    }
+  ]
+}

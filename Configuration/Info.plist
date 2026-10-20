@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WeeklyReviewAPIBaseURL</key>
+	<string>$(WEEKLY_REVIEW_API_BASE_URL)</string>
+	<key>WeeklyReviewAIProvider</key>
+	<string>$(WEEKLY_REVIEW_PROVIDER)</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+</dict>
+</plist>
